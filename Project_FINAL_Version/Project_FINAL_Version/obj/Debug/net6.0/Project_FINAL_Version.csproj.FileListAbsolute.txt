@@ -1,0 +1,30 @@
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.csproj.AssemblyReference.cache
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.AssemblyInfoInputs.cache
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.AssemblyInfo.cs
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.csproj.CoreCompileInputs.cache
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\bin\Debug\net6.0\Project_FINAL_Version.exe
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\bin\Debug\net6.0\Project_FINAL_Version.deps.json
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\bin\Debug\net6.0\Project_FINAL_Version.runtimeconfig.json
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\bin\Debug\net6.0\Project_FINAL_Version.dll
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\bin\Debug\net6.0\Project_FINAL_Version.pdb
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.dll
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\refint\Project_FINAL_Version.dll
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.pdb
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.genruntimeconfig.cache
+C:\Users\Tony a Vlaďka\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\ref\Project_FINAL_Version.dll
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\bin\Debug\net6.0\Project_FINAL_Version.exe
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\bin\Debug\net6.0\Project_FINAL_Version.deps.json
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\bin\Debug\net6.0\Project_FINAL_Version.runtimeconfig.json
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\bin\Debug\net6.0\Project_FINAL_Version.dll
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\bin\Debug\net6.0\Project_FINAL_Version.pdb
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.csproj.AssemblyReference.cache
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.AssemblyInfoInputs.cache
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.AssemblyInfo.cs
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.csproj.CoreCompileInputs.cache
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.dll
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\refint\Project_FINAL_Version.dll
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.pdb
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\Project_FINAL_Version.genruntimeconfig.cache
+C:\Users\anton\Dropbox\Rekvalifikacni kurz\Project_FINAL_Version\Project_FINAL_Version\obj\Debug\net6.0\ref\Project_FINAL_Version.dll
